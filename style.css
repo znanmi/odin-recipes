@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+.nav-container {
+  border: pink solid 1px;
+}
+a:hover {
+  color: red;
+}
+li {
+  padding: 8px;
+}
